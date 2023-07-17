@@ -45,7 +45,7 @@ const Form = () => {
   return (
     <div>
       <form className="form" onSubmit={handleSubmit}>
-        <h1>Add</h1>
+        <h1>Add A Product</h1>
         <input
           placeholder="Title"
           type="text"
@@ -78,7 +78,7 @@ const Form = () => {
         <br />
         <br />
         <Link to={{ pathname: '/home', state: { image } }}>
-          <button className="but" type="submit">Add</button>
+          <button className="but" type="submit"> Add A Product</button>
         </Link>
 
       </form>

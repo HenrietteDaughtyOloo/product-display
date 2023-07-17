@@ -9,14 +9,14 @@
     width: 600px;
     margin-left: 30%;
     padding: 30px;
-    color: rgb(27, 68, 68);
-    border: solid 2px  rgb(38, 169, 75);
+    color: rgb(17, 23, 23);
+    border: solid 2px  rgb(40, 57, 45);
     font-size: 1.2rem;
     border-radius: 5%;
 
 }
 .button-add {
-    background-color: #007bff;
+    background-color: #d3c73e;
     color: #fff;
     padding: 10px 20px;
     border: none;
@@ -25,5 +25,5 @@
   }
   
   .button-add:hover {
-    background-color: #032e0e;
+    background-color: #257d3b;
   }
